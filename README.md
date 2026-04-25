@@ -13,7 +13,7 @@ A static webpage showcasing popular shopping platforms like Amazon, Ikea, Bewako
 - CSS3
 
  🌐 Live Demo
-https://bharathjapathi123.github.io/catindark/
+ https://bharathjapathi123.github.io/chooseyourshopstatic/
 
  📌 Project Purpose
 This project was created to practice basic frontend development concepts such as layout design, styling, and organizing content using HTML and CSS.
